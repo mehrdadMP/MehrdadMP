@@ -47,7 +47,7 @@ I am a full stack application developer who builds front-end with <strong>Flutte
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/your-telegram" target="_blank">
+  <a href="https://t.me/MEHRDADMP1374" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/your-instagram" target="_blank">
